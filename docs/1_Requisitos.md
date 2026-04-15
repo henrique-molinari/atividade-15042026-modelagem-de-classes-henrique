@@ -1,27 +1,36 @@
-RF01 — Cadastro de Alunos - O sistema deve permitir cadastrar novos ***ALUNOS*** contendo dados pessoais, contato, endereço e plano contratado.
+## RF01 — Cadastro de Alunos 
+O sistema deve permitir cadastrar novos ***ALUNOS*** contendo dados pessoais, contato, endereço e plano contratado.
 
-RF02 — Gerenciamento de Planos - O **SISTEMA** deve permitir criar, editar, ativar e desativar tipos de ***PLANOS*** (mensal, trimestral, anual, musculação, funcional etc.).
+## RF02 — Gerenciamento de Planos 
+O **SISTEMA** deve permitir criar, editar, ativar e desativar tipos de ***PLANOS*** (mensal, trimestral, anual, musculação, funcional etc.).
 
-RF03 — Controle de ***PAGAMENTOS***
+##  RF03 — Controle de ***PAGAMENTOS***
 O sistema deve registrar ***PAGAMENTOS*** realizados na ***RECEPÇÃO*** (dinheiro, cartão ou PIX) e gerar boletos/cartões para pagamentos online.
 
-RF04 — Regularidade do Aluno - O sistema deve verificar automaticamente se o aluno está com mensalidade em dia.
+## RF04 — Regularidade do Aluno 
+O sistema deve verificar automaticamente se o aluno está com mensalidade em dia.
 
-RF05 — Controle de ***ACESSO*** - O sistema deve se integrar à catraca para validar a entrada do aluno por RFID.
+## RF05 — Controle de ***ACESSO*** 
+O sistema deve se integrar à catraca para validar a entrada do aluno por RFID.
 
-RF06 — ***AGENDAMENTO*** de ***AULAS*** - O aluno deve poder visualizar horários e reservar vagas nas aulas disponíveis.
+## RF06 — ***AGENDAMENTO*** de ***AULAS*** 
+O aluno deve poder visualizar horários e reservar vagas nas aulas disponíveis.
 
-RF07 — Lista de ***PRESENÇA*** - ***INSTRUTORES*** devem registrar presença dos alunos nas aulas.
+## RF07 — Lista de ***PRESENÇA*** 
+***INSTRUTORES*** devem registrar presença dos alunos nas aulas.
 
-RF08 — ***AVALIAÇÃO FÍSICA*** - ***INSTRUTORES*** devem registrar avaliações físicas (peso, IMC, percentual de gordura etc.) e anexar arquivos se necessário.
+## RF08 — ***AVALIAÇÃO FÍSICA*** 
+***INSTRUTORES*** devem registrar avaliações físicas (peso, IMC, percentual de gordura etc.) e anexar arquivos se necessário.
 
-RF09 — Relatórios Gerenciais - O ***GERENTE*** deve poder emitir relatórios como:
+## RF09 — Relatórios Gerenciais 
+O ***GERENTE*** deve poder emitir relatórios como:
 inadimplência,
 alunos ativos,
 histórico de acessos,
 ocupação das aulas.
 
-RF10 — ***NOTIFICAÇÕES*** - O sistema deve enviar notificações ao aluno sobre:
+## RF10 — ***NOTIFICAÇÕES*** 
+O sistema deve enviar notificações ao aluno sobre:
 vencimento de mensalidade,
 confirmação de agendamento,
 liberação de nova avaliação física.
