@@ -1,4 +1,4 @@
-##***Aluno*** - RF01, RF04, RF05, RF06, RF10
+## ***Aluno*** - RF01, RF04, RF05, RF06, RF10
 - idAluno
 - nome
 - cpf
@@ -8,14 +8,14 @@
 - rfid
 - status
 
-##***Plano*** - RF01, RF02, RF04
+## ***Plano*** - RF01, RF02, RF04
 - idPlano
 - nome
 - tipo
 - valor
 - ativo
 
-##***Pagamento*** - RF03, RF04, RF09
+## ***Pagamento*** - RF03, RF04, RF09
 - idPagamento
 - data
 - valor
