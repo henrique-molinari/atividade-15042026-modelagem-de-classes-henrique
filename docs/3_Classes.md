@@ -68,6 +68,6 @@
 - idRecepcionista
 - nome
 
-##***Gerente*** - RF02, RF09
+## ***Gerente*** - RF02, RF09
 - idGerente
 - nome
