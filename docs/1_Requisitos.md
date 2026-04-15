@@ -16,12 +16,12 @@ RF07 — Lista de ***PRESENÇA*** - ***INSTRUTORES*** devem registrar presença 
 RF08 — ***AVALIAÇÃO FÍSICA*** - ***INSTRUTORES*** devem registrar avaliações físicas (peso, IMC, percentual de gordura etc.) e anexar arquivos se necessário.
 
 RF09 — Relatórios Gerenciais - O ***GERENTE*** deve poder emitir relatórios como:
-inadimplência
-alunos ativos
-histórico de acessos
-ocupação das aulas
+inadimplência,
+alunos ativos,
+histórico de acessos,
+ocupação das aulas.
 
 RF10 — ***NOTIFICAÇÕES*** - O sistema deve enviar notificações ao aluno sobre:
-vencimento de mensalidade
-confirmação de agendamento
-liberação de nova avaliação física
+vencimento de mensalidade,
+confirmação de agendamento,
+liberação de nova avaliação física.
