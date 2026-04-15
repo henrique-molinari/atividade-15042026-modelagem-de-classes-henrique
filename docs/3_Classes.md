@@ -22,28 +22,28 @@
 - formaPagamento
 - status
 
-##***Acesso*** - RF05, RF09
+## ***Acesso*** - RF05, RF09
 - idAcesso
 - dataHora
 - autorizado
 
-##***Aula*** - RF06, RF07, RF09
+## ***Aula*** - RF06, RF07, RF09
 - idAula
 - nome
 - horario
 - capacidadeMaxima
 
-##***Agendamento*** - RF06, RF10
+## ***Agendamento*** - RF06, RF10
 - idAgendamento
 - dataReserva
 - status
 
-##***Presenca*** - RF07
+## ***Presenca*** - RF07
 - idPresenca
 - data
 - presente
 
-##***AvaliacaoFisica*** - RF08, RF10
+## ***AvaliacaoFisica*** - RF08, RF10
 - idAvaliacao
 - data
 - peso
@@ -52,19 +52,19 @@
 - observacoes
 - anexo
 
-##***Notificacao*** - RF10
+## ***Notificacao*** - RF10
 - idNotificacao
 - tipo
 - dataEnvio
 - status
 - mensagem
 
-##***Instrutor*** - RF07, RF08
+## ***Instrutor*** - RF07, RF08
 - idInstrutor
 - nome
 - especialidade
 
-##***Recepcionista*** - RF01, RF03
+## ***Recepcionista*** - RF01, RF03
 - idRecepcionista
 - nome
 
