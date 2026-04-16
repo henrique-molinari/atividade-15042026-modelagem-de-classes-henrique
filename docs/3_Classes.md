@@ -1,4 +1,5 @@
-## ***Aluno*** - RF01, RF04, RF05, RF06, RF10
+# ***Aluno*** - RF01, RF04, RF05, RF06, RF10
+## Atributos:
 - idAluno
 - nome
 - cpf
