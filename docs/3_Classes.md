@@ -9,13 +9,13 @@
 - rfid
 - status
 ## Métodos
-  contratarPlano()
-  consultarPlano()
-  visualizarAulas()
-  agendarAula()
-  realizarPagamento()
-  cancelarAgendamento()
-  consultarNotificacoes()
+- contratarPlano()
+- consultarPlano()
+- visualizarAulas()
+- agendarAula()
+- realizarPagamento()
+- cancelarAgendamento()
+- consultarNotificacoes()
 ## ***Plano*** - RF01, RF02, RF04
 ## Atributos:
 - idPlano
