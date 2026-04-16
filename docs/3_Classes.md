@@ -16,7 +16,7 @@
 - realizarPagamento()
 - cancelarAgendamento()
 - consultarNotificacoes()
-## ***Plano*** - RF01, RF02, RF04
+# ***Plano*** - RF01, RF02, RF04
 ## Atributos:
 - idPlano
 - nome
@@ -28,7 +28,7 @@
 - editarValorPlano()
 - ativarPlano()
 - desativarPlano()
-## ***Pagamento*** - RF03, RF04, RF09
+# ***Pagamento*** - RF03, RF04, RF09
 ## Atributos:
 - idPagamento
 - data
@@ -43,7 +43,7 @@
 - cancelarPagamento()
 - estornoPagamento()
 - consultarStatus()
-## ***Acesso*** - RF05, RF09
+# ***Acesso*** - RF05, RF09
 ## Atributos:
 - idAcesso
 - dataHora
@@ -53,7 +53,7 @@
 - autorizarAcesso()
 - rejeitarAcesso()
 - registrarEntrada()
-## ***Aula*** - RF06, RF07, RF09
+# ***Aula*** - RF06, RF07, RF09
 ## Atributos:
 - idAula
 - nome
@@ -66,7 +66,7 @@
 - reservarVaga()
 - liberarVaga()
 registrarPresenca()
-## ***Agendamento*** - RF06, RF10
+# ***Agendamento*** - RF06, RF10
 ## Atributos:
 - idAgendamento
 - dataReserva
@@ -76,7 +76,7 @@ registrarPresenca()
 - cancelarReserva()
 - confirmarAgendamento()
 - cancelarAgendamento()
-## ***Presenca*** - RF07
+# ***Presenca*** - RF07
 ## Atributos:
 - idPresenca
 - data
@@ -84,7 +84,7 @@ registrarPresenca()
 ## Métodos
 - registrarPresenca()
 - consultarPresenca()
-## ***AvaliacaoFisica*** - RF08, RF10
+# ***AvaliacaoFisica*** - RF08, RF10
 ## Atributos:
 - idAvaliacao
 - data
@@ -98,7 +98,7 @@ registrarPresenca()
 - atualizarAvaliacao()
 - anexarDocumento()
 - consultarHistorico()
-## ***Notificacao*** - RF10
+# ***Notificacao*** - RF10
 ## Atributos:
 - idNotificacao
 - tipo
@@ -109,7 +109,7 @@ registrarPresenca()
 - enviarNotificacao()
 - analizarNotificacao()
 - marcarComoLida()
-## ***Instrutor*** - RF07, RF08
+# ***Instrutor*** - RF07, RF08
 ## Atributos:
 - idInstrutor
 - nome
@@ -119,7 +119,7 @@ registrarPresenca()
 - realizarAvalicaoFisica()
 - registrarAvaliacaoFisica()
 - consultarAvaliacaoFisica()
-## ***Recepcionista*** - RF01, RF03
+# ***Recepcionista*** - RF01, RF03
 ## Atributos:
 - idRecepcionista
 - nome
@@ -127,7 +127,7 @@ registrarPresenca()
 - cadastrarAluno()
 - atualizarDados()
 - registrarPagamento()
-## ***Gerente*** - RF02, RF09
+# ***Gerente*** - RF02, RF09
 ## Atributos:
 - idGerente
 - nome
